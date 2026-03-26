@@ -11,3 +11,6 @@
 
 **{id. 009-global-sync-2026}**
 **{durum: küresel yayın aktif}**
+{23:49}
+{tarih:26.03.2026}
+{bölge:gmt+3}
